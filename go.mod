@@ -1,4 +1,4 @@
-module github.com/fadymondy/tools
+module github.com/togo-framework/tools
 
 go 1.26.4
 

@@ -2,13 +2,13 @@
 
 Tool/stack resource with favourites.
 
-- **Source:** https://github.com/fadymondy/tools
+- **Source:** https://github.com/togo-framework/tools
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/tools
+togo install togo-framework/tools
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
